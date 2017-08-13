@@ -1,4 +1,4 @@
-# Static files
+# Serve Static Files
 
 - Node.js
 - Express.js
